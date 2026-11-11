@@ -1,5 +1,5 @@
 
-# CLA-2: Case Study-Based Analysis and Design Using PDA and CFG
+# Case Study-Based Analysis and Design Using PDA and CFG
 
 ## Student Details
 
